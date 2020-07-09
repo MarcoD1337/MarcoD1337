@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+On Discord I Am Skrt#1337 
+
+
+
+I AM SUPER COOL
