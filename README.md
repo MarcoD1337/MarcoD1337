@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-On Discord I Am Skrt#1337 
+Discord: Skrt#1337 
 
+## Projects
 
-
-I AM SUPER COOL
+#### vLand
