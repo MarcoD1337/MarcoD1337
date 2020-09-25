@@ -19,4 +19,9 @@ Discord: Skrt#1337
 
 ## Projects
 
-#### vLand
+<details>
+<summary>Projects</summary>
+vLand ~ Custom FiveM Server(Whitelisted)
+  <br>
+YoteCoin ~ Custom Currency(Not Crypto)
+</details>
