@@ -1,25 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MarcoD1337/MarcoD1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub
 
-Here are some ideas to get you started:
+![MarcoD1337's github stats](https://github-readme-stats.vercel.app/api?username=MarcoD1337&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+Discord: [Skrt#1337](https://discordapp.com/users/289861487303065610)
 
-Discord: Skrt#1337 
+Twitter: [FootlockerIL](https://twitter.com/FootlockerIL)
 
 ## Projects
-
-<details>
-<summary>Projects</summary>
-vLand ~ Custom FiveM Server (Whitelisted)
-</details>
+- [HQTrivia.js - a typescript wrapper for the HQTrivia app](https://github.com/MarcoD1337/HQTrivia/tree/master/API)
