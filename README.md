@@ -2,7 +2,8 @@
 
 ## Welcome to my GitHub
 
-![MarcoD1337's github stats](https://github-readme-stats.vercel.app/api?username=MarcoD1337&show_icons=true&theme=dark)
+![MarcoD1337's github stats](https://github-readme-stats.vercel.app/api?username=MarcoD1337&show_icons=true&theme=dark)\
+![MarcoD1337's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=MarcoD1337&layout=compact&theme=dark)
 
 ## Contact me
 Discord: [Skrt#1337](https://discordapp.com/users/289861487303065610)
